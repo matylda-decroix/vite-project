@@ -1,6 +1,6 @@
 # Sandbox project
 
-I started this project just to practice, play around and repeat everything I know
+I started this project just to practice, play around, repeat everything I know and learn something new!
 
 ## What is inside?
 
