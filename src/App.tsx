@@ -28,7 +28,7 @@ type User = {
 function App() {
   const { data } = useQuery(
     "users",
-    (): Promise<User> =>
+    (): Promise<Array<User>> =>
       fetch("https://jsonplaceholder.typicode.com/users").then((res) =>
         res.json()
       ),
