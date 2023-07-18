@@ -4,9 +4,11 @@ I started this project just to practice, play around and repeat everything I kno
 
 ## What is inside?
 
-Libraries, dependencies, and so on...
+Libraries, packages and so on...
 
 ### Vite
+
+First time! Used instead of CRA
 
 ### React
 
